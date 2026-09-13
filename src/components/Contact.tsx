@@ -10,7 +10,7 @@ interface ContactLink {
 }
 
 const links: ContactLink[] = [
-  { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/saggurthi-babu-8923972a6?utm_source=share_via&utm_content=profile&utm_medium=member_android', color: '#0077B5' },
+  { icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/in/saggurthi-babu-8923972a6', color: '#0077B5' },
   { icon: Github, label: 'GitHub', href: 'https://github.com/saggurthibabu', color: '#ffffff' },
   { icon: Mail, label: 'Email', href: 'mailto:saggurthibabu62@gmail.com', color: '#EA4335' },
   { icon: Download, label: 'Resume Download', href: 'https://drive.google.com/file/d/1IpyqyAOVozLcAHzzNK2twbWX3D-ghFLS/view?usp=drivesdk', color: '#FF0000' },
