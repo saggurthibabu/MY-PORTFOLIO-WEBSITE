@@ -24,6 +24,7 @@ const projects = [
     desc: 'A cinematic, cyberpunk-inspired portfolio website built with React, featuring glassmorphism design, smooth animations, and a futuristic AI workstation aesthetic.',
     tags: ['React', 'TypeScript', 'Tailwind', 'Vite'],
     accent: '#42e6a4',
+    url: 'https://cyberpunk-ai-portfol-uorn.bolt.host/'
   },
 ];
 
