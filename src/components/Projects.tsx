@@ -9,6 +9,7 @@ const projects = [
     desc: 'A web-based tool that visualizes neural network architectures in real-time, showing layer connections, activation functions, and data flow through the network.',
     tags: ['Python', 'TensorFlow', 'React', 'D3.js'],
     accent: '#ff2244',
+    url: 'https://saggurthibabu.github.io/INTERACTIVE-AI-NEURAL-NETWORK-VISUALIZER/',
   },
   {
     icon: Ticket,
@@ -16,7 +17,7 @@ const projects = [
     desc: 'A full-featured movie ticket booking platform with seat selection, payment integration, showtime management, and an admin dashboard for theater operators.',
     tags: ['Java', 'Spring Boot', 'MySQL', 'REST API'],
     accent: '#00f0ff',
-    url: 'https://saggurthibabu.github.io/my-portfolio/',
+    url: 'https://saggurthibabu.github.io/AI-MOVIE-BOOKING-SYSTEM/',
   },
   {
     icon: Globe,
